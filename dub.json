@@ -1,0 +1,11 @@
+{
+	"name": "main",
+	"description": "basic get browser history example",
+	"targetType": "executable",
+
+	"dependencies": {
+		"d-web-browser-history": { "path" : "d-web-browser-history-1.2.0" },
+	},
+
+	"mainSourceFile": "main.d",
+}
