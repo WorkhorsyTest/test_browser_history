@@ -1,4 +1,8 @@
 
+/*
+reset && dub run --arch=x86_64 --build=debug --force
+*/
+
 int main() {
 	import web_browser_history;
 	import std.stdio : stdout;
